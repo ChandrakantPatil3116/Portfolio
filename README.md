@@ -1,7 +1,7 @@
 # Portfolio Website
-<br><br>
--This is my ongoing portfolio website made from scratch and implementing changes to it frequently.
 <br>
+-This is my ongoing portfolio website made from scratch and implementing changes to it frequently.
+<br><br>
 -The website contains Three major files:-
 <br>
   -HTML file
@@ -9,6 +9,6 @@
   -CSS file
   <br>
   -JavaScript file
-  <br>
+  <br><br>
 -It contains infromations about me such as my education, skills, certifications, projects, social handles,etc.
   
